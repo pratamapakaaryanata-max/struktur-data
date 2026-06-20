@@ -1,0 +1,2 @@
+# struktur-data
+tugas stukturdata
